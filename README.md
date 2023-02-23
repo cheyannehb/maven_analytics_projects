@@ -1,2 +1,2 @@
 # sql_projects
-SQL Projects using source data provided by Maven Analytics. 
+SQL and visualization project using source data provided by Maven Analytics. 
